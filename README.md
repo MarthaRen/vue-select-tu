@@ -57,6 +57,8 @@ Vue.use(vueSelectTu)
 
 ## Example
 
+![](http://mmbiz.qpic.cn/mmbiz_jpg/qRJazDfIbDxZNbejBas5m0GMVTYH3e8VsD5VcA8wuSoNoIv00HyJiaoYabUysHtODzkDqIianudIojnXWrEjQNdQ/0)
+
 ```vue
 <template>
   <div id="app">

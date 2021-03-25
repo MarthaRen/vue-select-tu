@@ -163,7 +163,7 @@ export default {
   margin: 0 5px 0 5px;
   padding: 3px 18px;
   cursor: pointer;
-
+  border: 1px solid transparent;
   border-radius: 2px;
   font-size: 16px;
   color: #cfeaff;
