@@ -119,7 +119,6 @@ export default {
 
 > ​	demo中部分图片引自网络，如有雷同，请联系本人删除
 >
-> ​	WeChat: 735568868
 
 ## Maintainers
 
